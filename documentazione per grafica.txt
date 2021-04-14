@@ -1,3 +1,4 @@
+poichè nel mio pc principale non ho git e in questo che uso con git installato non vanno google docs, qua ci sono solo le cose scritte senza colori e senza distinzioni ma nel documento di google docs che ho inviato a Gramellini è tutto più ordinato e colorato.
 imprevisti 
 
 andate sino al largo colombo: se passate dal via ritirate 500 euro.
@@ -123,3 +124,250 @@ avete ceduto delle azioni: ricavate 125 euro.
 pagate il conto del dottore: 125 euro
 
 vie
+LEGGENDA 
+NOME VIA=costo
+COSTO CASA
+COSTO ALBERGO
+SENZA CASE
+	1 CASA
+2 CASE
+3 CASE
+4 CASE
+1 ALBERGO(solo dopo 4 case)
+IPOTECA
+i colori sono quelli giusti 
+vicolo corto =60
+casa=50
+albergo=50
+4
+20
+60
+180
+320
+450
+ipoteca=30
+vicolo stretto=60 
+casa=50
+albergo=50
+2
+10
+30
+90
+160
+250
+ipoteca=30
+bastioni gran sasso=100 
+casa=50
+albergo=50
+6
+30
+90
+270
+400
+550
+ipoteca=50
+viale monterosa=100 
+casa=50
+albergo=50
+6
+30
+90
+270
+400
+550
+ipoteca=50
+viale vesuvio=120
+casa=50
+albergo=50
+8
+40
+100
+300
+450
+600
+ipoteca=60
+via accademia=140 
+casa=100
+albergo=100
+10
+50
+150
+450
+625
+750
+ipoteca=70
+corso ateneo=140
+casa=100
+albergo=100
+10
+50
+150
+450
+625
+750
+ipoteca=70
+piazza università=160
+casa=100
+albergo=100
+12
+60
+180
+500
+700
+900
+ipoteca=80
+via verdi=180
+case=100
+albergo=100
+14
+70
+200
+550
+750
+950
+ipoteca=90
+corso raffaello=180 
+case=100
+albergo=100
+14
+70
+200
+550
+750
+950
+ipoteca=90
+piazza dante=200
+casa=100
+albergo=100
+16
+80
+220
+600
+800
+1000
+ipoteca=100
+via marco polo=220 
+casa=150
+albergo=150
+18
+90
+250
+700
+875
+1050
+ipoteca=110
+corso magellano=550 
+casa=150
+albergo=150
+18
+90
+250
+700
+875
+1050
+ipoteca=110
+largo colombo=240
+casa=150
+albergo=150
+20
+100
+300
+750
+925
+1100
+ipoteca=120
+viale traiano=260
+case=150
+albergo=150
+22
+110
+330
+800
+975
+1150
+ipoteca=140
+viale costantino=260
+case=150
+albergo=150
+22
+110
+330
+800
+975
+1150
+ipoteca=140
+piazza giulio cesare=280
+casa=150
+albergo=150
+24
+120
+360
+850
+1025
+1200
+ipoteca=140
+via roma=300 
+case=200
+albergo=200
+26
+130
+390
+900
+1100
+1275
+ipoteca=150
+corso impero=300 
+case=200
+albergo=200
+26
+130
+390
+900
+1100
+1275
+ipoteca=150
+largo augusto=320
+casa=200
+albergo=200
+28
+150
+450
+1000
+1200
+1400
+ipoteca=160
+viale dei giardini=350
+case=200
+albergo=200
+35
+175
+500
+1100
+1300
+1500
+ipoteca=175
+parco della vittoria=400
+case=200
+albergo=200
+50
+200
+600
+1400
+1700
+2000
+ipoteca=200
+società elettrica=150
+ipoteca=75
+se si possiede una sola società la rendita è 4 volte il numero uscito dai dadi
+se si posseggono entrambe le società la rendita è 10 volte il numero uscito dai dadi
+società acqua potabile=150
+ipoteca=75
+se si possiede una sola società la rendita è 4 volte il numero uscito dai dadi
+se si posseggono entrambe le società la rendita è 10 volte il numero uscito dai dadi
+ 
+stazione nord/sud/est/ovest=200
+se si possiede una sola stazione=25
+se si possiedono 2 stazioni=50
+se si possiedono 3 stazioni=100
+se si possiedono 4 stazioni=200
+ipoteca=100
