@@ -1,56 +1,87 @@
-Lo scopo del gioco � di trarre profitto, affittando, comprando e vendendo le propriet� situate attorno alla TAVOLA, sino a diventare il giocatore pi� ricco e, possibilmente, il MONOPOLISTA.
+Monopoly
+Lo scopo del gioco è di trarre profitto, affittando, comprando e vendendo le proprietà situate attorno alla TAVOLA, sino a diventare il giocatore più ricco e, possibilmente, il MONOPOLISTA.
 
-Partendo dal �Via! �,  il segnalino di ogni giocatore verr� spostato sulle caselle della TAVOLA secondo la gettata dei dadi.
-Quando il segnalino si ferma su un terreno, stazione o impresa pubblica che non � ancora di propriet� altrui, il giocatore pu� scegliere se comprarlo dalla Banca, pagando il prezzo segnato sulla casella relativa: altrimenti verr� richiesto agli altri giocatori se la desiderano acquistare. 
-Chi possiede una propriet� ne gode la rendita, la quale � costituita dall'affitto che ogni altro giocatore, fermandosi sulla propriet�, � tenuto a pagargli.
+Da 2 fino a 4 giocatori
 
-Le rendite o affitti aumentano in ragione delle case e degli alberghi che vengono eretti sul terreno; per cui � consigliabile di fabbricare il pi� possibile sull'area posseduta.
+Partendo dal «Via! »,  il segnalino di ogni giocatore verrà spostato sulle caselle della TAVOLA secondo la gettata dei dadi.
+Quando il segnalino si ferma su un terreno, stazione o impresa pubblica che non è ancora di proprietà altrui, il giocatore può scegliere se comprarlo dalla Banca, pagando il prezzo segnato sulla casella relativa: altrimenti verrà richiesto agli altri giocatori se la desiderano acquistare. 
+Chi possiede una proprietà ne gode la rendita, la quale è costituita dall'affitto che ogni altro giocatore, fermandosi sulla proprietà, è tenuto a pagargli.
+Le rendite o affitti aumentano in ragione delle case e degli alberghi che vengono eretti sul terreno; per cui è consigliabile di fabbricare il più possibile sull'area posseduta.
 
 Per aver maggior denaro liquido e intensificare le costruzioni, si possono ottenere dalla Banca ipoteche sui terreni, stazioni ed imprese.
 
-Quando si capita su una casella segnata PROBABILIT� o IMPREVISTI al giocatore verr� mostrata una carta dal relativo mazzo, e seguire fedelmente le indicazioni in essa contenute.
-Nel corso del gioco si pu� anche andare a finire in prigione, e uscirne, o grazie a una carta PROBABILIT� o IMPREVISTI, o saltando un turno.
+Quando si capita su una casella segnata PROBABILITÀ o IMPREVISTI al giocatore verrà mostrata una carta dal relativo mazzo, e seguire fedelmente le indicazioni in essa contenute.
+Nel corso del gioco si può anche andare a finire in prigione, e uscirne, o grazie a una carta PROBABILITÀ o IMPREVISTI, o saltando un turno.
 
-REGOLE DEL GIOCO
-
-da due fino a sei giocatori (anche sette, quando chi fa da banchiere non partecipa al gioco)
 DOTAZIONE
-Il gioco consiste di una TAVOLA con 40 caselle indicanti terreni, stazioni per servizi di trasporti, imprese di pubblica utilit�, tasse, fermate, premi e penalit�. Sopra queste caselle si muovono i segnalini che i giocatori prendono all'inizio del gioco.
-Per determinare gli spostamenti vi sono due DADI; per indicare le costruzioni vi sono 32 CASE (di color verde) e 12 ALBERGHI (di color rosso); per tirare dagli IMPREVISTI e dalle PROBABILIT� vi sono due mazzi di carte (16 per ciascun mazzo); per fissare infine le rendite e le ipoteche vi sono tanti contratti quanti sono i terreni, le stazioni
-e le imprese pubbliche (in tutto 28) e per effettuare i pagamenti vi sono 400 banconote di vario taglio.
+Il gioco consiste di una TAVOLA con 40 caselle indicanti terreni, stazioni per servizi di trasporti, imprese di pubblica utilità, tasse, fermate, premi e penalità. Sopra queste caselle si muovono i segnalini che i giocatori prendono all'inizio del gioco.
+Per determinare gli spostamenti vi sono due DADI; per indicare le costruzioni vi sono 32 CASE (di color verde) e 12 ALBERGHI (di color rosso); per tirare dagli IMPREVISTI e dalle PROBABILITÀ vi sono due mazzi di carte (16 per ciascun mazzo); per fissare infine le rendite e le ipoteche vi sono tanti contratti quanti sono i terreni, le stazioni
+e le imprese pubbliche (in tutto 28).
+
 PREPARAZIONE
-
-Ogni giocatore prende un segnalino che serve a rappresentarlo nei suoi giri intorno alla tavola, e riceve un capitale simbolico diviso come segue: 
-
-2
-500
-4
-100
-1
-50
-2
-20
-1
-10
-1
-5
-4
-1
+Ogni giocatore prende un segnalino che serve a rappresentarlo nei suoi giri intorno alla tavola, e riceve un capitale simbolico di 610 $ (il valore del portafoglio di ogni giocatore sarà visibile come cifra numerica.).
 
 INIZIO DEL GIOCO
-Tutti i giocatori, all'inizio, gettano i 2 dadi, e chi ha fatto il numero maggiore comincia il gioco. Egli mette il suo segnalino sulla casella del �VIA! �, getta ancora i dadi e, a seconda del numero ottenuto, si muover� il segnalino di altrettanti spazi sulla tavola, procedendo nel senso della freccia. Poi tocca ad un altro giocatore casuale. Evidentemente pu� accadere che pi� segnalini vengano a fermarsi sulla stessa casella,
-ma ci� non d� luogo a nessun mutamento nel normale svolgimento del gioco. A seconda della casella su cui il segnalino si ferma, si presentano al giocatore queste diverse possibilit�: o diventare proprietario del lotto, o essere obbligato a pagare l'affitto a chi ne � proprietario, o pagare tasse, o pescare dai mazzi delle PROBABILIT� e degli IMPRE-
-VISTI, o andare a finire in prigione. La sola fermata al �Posteggio Gratuito� non ha conseguenze.
+Tutti i giocatori, all'inizio, gettano i 2 dadi, e chi ha fatto il numero maggiore comincia il gioco. Egli mette il suo segnalino sulla casella del «VIA! », getta ancora i dadi e, a seconda del numero ottenuto, si muoverà il segnalino di altrettanti spazi sulla tavola, procedendo nel senso della freccia. Poi tocca ad un altro giocatore casuale. Evidentemente può accadere che più segnalini vengano a fermarsi sulla stessa casella,
+ma ciò non dà luogo a nessun mutamento nel normale svolgimento del gioco. A seconda della casella su cui il segnalino si ferma, si presentano al giocatore queste diverse possibilità: o diventare proprietario del lotto, o essere obbligato a pagare l'affitto a chi ne è proprietario, o pagare tasse, o pescare dai mazzi delle PROBABILITÀ e degli IMPRE-
+VISTI, o andare a finire in prigione. La sola fermata al «Posteggio Gratuito» non ha conseguenze.
 
-Quando un giocatore, gettando i dadi, fa un numero doppio (con entrambi i dadi lo stesso numero) procede col suo segnalino come di solito, e sopporta le conseguenze buone o cattive inerenti al terreno su cui � arrivato, ma deve tirare una seconda volta e spostare di nuovo il segnalino in rapporto al numero fatto. Per�, tirando tre volte di seguito
-un numero doppio, andr� difilato in prigione.
+Quando un giocatore, gettando i dadi, fa un numero doppio (con entrambi i dadi lo stesso numero) procede col suo segnalino come di solito, e sopporta le conseguenze buone o cattive inerenti al terreno su cui è arrivato, ma deve tirare una seconda volta e spostare di nuovo il segnalino in rapporto al numero fatto. Però, tirando tre volte di seguito
+un numero doppio, andrà difilato in prigione.
 
-INDENNIT�
-Ogni volta che un giocatore si ferma o transita sulla casella �VIA! � la Banca gli paga una indennit� di 200
+INDENNITÀ
+Ogni volta che un giocatore si ferma o transita sulla casella «VIA! » la Banca gli paga una indennità di 200
 
-FERMATA SU PROPRIET� LIBERA
-Quando un giocatore capita su un terreno, una stazione o un'impresa che non � stata ancora aggiudicata, egli ha il diritto di opzione su di essa; pu�, cio�, comprarla dalla Banca. Nel caso non volesse comprarla apparir� un avviso agli altri giocatori che chieder� se loro sono intenzionati a comprarla per lo stesso prezzo.Nel caso tutti gli altri giocatori vogliono acquistarla si tirer� il dado e colui che far� il valore maggiore potr� contrare il terreno.Chi diviene proprietario di un terreno, d'una stazione o d'una impresa, riceve all'atto del pagamento il relativo contratto
+FERMATA SU PROPRIETÀ LIBERA
+Quando un giocatore capita su un terreno, una stazione o un'impresa che non è stata ancora aggiudicata, egli ha il diritto di opzione su di essa; può, cioè, comprarla dalla Banca. Nel caso non volesse comprarla apparirà un avviso agli altri giocatori che chiederà se loro sono intenzionati a comprarla per lo stesso prezzo.Nel caso tutti gli altri giocatori volessero acquistarla si tirerà il dado e colui che farà il valore maggiore potrà contrare il terreno.Chi diviene proprietario di un terreno, d'una stazione o d'una impresa, riceve all'atto del pagamento il relativo contratto
 
-FERMATA SU PROPRIET� AGGIUDICATA
-Quando un giocatore si ferma su un terreno, una stazione o un'impresa posseduta da un altro giocatore, egli pagher� in automatico al proprietario l'affitto fissato sul contratto. Se sul terreno sono stati elevati immobili, l'affitto aumenta come indicato. L'affitto non viene pagato quando la propriet� � gravata da ipoteca. Ad ogni propriet� corrisponde, come
+FERMATA SU PROPRIETÀ AGGIUDICATA
+Quando un giocatore si ferma su un terreno, una stazione o un'impresa posseduta da un altro giocatore, egli pagherà in automatico al proprietario l'affitto fissato sul contratto. Se sul terreno sono stati elevati immobili, l'affitto aumenta come indicato. L'affitto non viene pagato quando la proprietà è gravata da ipoteca. Ad ogni proprietà corrisponde, come
 abbiamo detto, un contratto che al momento della stipulazione dell'ipoteca viene mostrato a video.
+
+VANTAGGI PER I PROPRIETARI DI TERRENI
+È assai vantaggioso di assicurarsi la proprietà di un gruppo completo di terreni, di servizi o di imprese: (per es.: il gruppo Piazza Dante, Corso Raffaello, Via Verdi. Le 4 Stazioni. Le due imprese: Soc. Elettrica e Soc. Acqua Potabile), perché in questo caso il proprietario può esigere affitto doppio per le aree non fabbricate di quel gruppo (vedi contratti), e ancora maggiore per le stazioni e imprese.
+Le case possono essere costruite sulle vie, anche se non si posseggono tutte le proprietà di un gruppo completo di terreni e potranno essere costruite con un massimo di 4 per terreno. Il vantaggio di possedere case e alberghi, piuttosto che proprietà nude, è che gli affitti diventano molto più alti.
+
+FERMATA SU «PROBABILITÀ» o «IMPREVISTI»
+Al giocatore che viene a fermarsi su una di queste caselle, viene mostrata una carta random del mazzo relativo e, dopo aver eseguito le istruzioni in essa contenute, essa viene rimessa nel mazzo.Solo le 2 carte «Uscite gratis di prigione...» vengono mostrate in fondo al tabellone finché non vengano usate o dal giocatore o da colui al quale egli le ha vendute. Dopo di che vengono rimesse nel mazzo.
+
+FERMATA SULLE «TASSE» E SUL «POSTEGGIO GRATUITO»
+Al giocatore che si ferma sulla «Tassa patrimoniale» o sulla «Tassa di lusso»verrà sottratto dal suo portafoglio il capitale indicato sulla casella; chi, invece, si ferma sulla casella «Posteggio gratuito», vi rimane senza subire alcuna conseguenza sino alla sua prossima gettata dei dadi.
+
+
+BANCA
+La Banca ha un ruolo fittizio poiché tutte le transazioni (paga indennità e premi, incassa le multe e le tasse, vende le proprietà, ne consegna ai giocatori i contratti, e concede le ipoteche) vengono eseguite dal Server e il capitale della banca è illimitato.
+
+PRIGIONE
+Un giocatore va a finire in prigione (casella con le sbarre): 
+l) se il suo segnalino si ferma sulla casella dove è raffigurato il carabiniere; 
+2) se tira una carta dal mazzo PROBABILITÀ o dal mazzo IMPREVISTI che porti l'indicazione di andare in prigione; 
+3) se getta i dadi doppi per tre volte di seguito. Chi è condannato alla prigione, ci va diret-
+tamente senza passare dal «VIA! » e senza quindi riscuotere la relativa indennità.
+
+Se un giocatore capita sulla casella della prigione in seguito alla gettata dei dadi, vi resta soltanto come visitatore(transito) e prosegue al prossimo giro.
+Chi è andato in prigione ne esce: 
+1) mediante il pagamento di buoni per 250$ al suo turno di gioco, pagamento
+che dovrà avvenire prima di gettare i dadi; 
+2) utilizzando o comprando da altro giocatore un cartoncino delle PROBABILITÀ o IMPREVISTI con la dicitura «Uscite gratis di prigione...». Un giocatore, però, anche mentre è in prigione, è autorizzato a comprare e vendere, incassare affitti ed erigere case e alberghi.
+3)con  l’attesa di  2 turni senza giocare.
+
+CASE ED ALBERGHI
+La vendita delle case è riservata soltanto alla Banca. Un giocatore può erigere case sempre su un terreno pur non possedendo tutti i terreni di uno stesso gruppo.Non si può superare il numero di 4 case per ogni lotto. Il prezzo di ogni casa è segnato sul contratto e sul tabellone.
+
+Gli alberghi si costruiscono restituendo alla Banca le 4 case già esistenti su un lotto e pagando in più il prezzo dell'albergo segnato sul contratto e sul tabellone. Su ogni lotto non può venir fabbricato più di un albergo.
+Non si possono costruire alberghi finché non si abbiano 4 case su ogni lotto del gruppo.
+
+IPOTECHE
+Soltanto la Banca può concedere ipoteche. Il valore ipotecario di ogni terreno, stazione o  società è segnato sul relativo contratto e corrisponde alla metà del prezzo originario. 
+
+Un terreno può venire ipotecato soltanto se tutto il gruppo a cui esso appartiene è privo di costruzioni. Ove vi siano delle costruzioni esse vanno vendute alla Banca, che le pagherà metà del loro prezzo di acquisto.
+
+FALLIMENTO
+Quando un giocatore deve pagare alla Banca o ad altro giocatore una somma superiore a tutto ciò che possiede, comprendendo sia il denaro liquido, sia le case e gli alberghi a metà del prezzo d'acquisto e i terreni liberi al prezzo di ipoteca, fallisce. In tal caso, tutto quanto egli possiede passa alla Banca .Il giocatore fallito si ritira dal gioco.
+
+CONCLUSIONE DEL GIOCO
+Quando il penultimo giocatore è fallito, l'ultimo giocatore rimasto vince la partita e gli  verrà mostrata una finestra di premio.
+
+
