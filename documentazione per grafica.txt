@@ -1,11 +1,11 @@
-poichË nel mio pc principale non ho git e in questo che uso con git installato non vanno google docs, qua ci sono solo le cose scritte senza colori e senza distinzioni ma nel documento di google docs che ho inviato a Gramellini Ë tutto pi˘ ordinato e colorato.
+poich√® nel mio pc principale non ho git e in questo che uso con git installato non vanno google docs, qua ci sono solo le cose scritte senza colori e senza distinzioni ma nel documento di google docs che ho inviato a Gramellini √® tutto pi√π ordinato e colorato.
 imprevisti 
 
-andate sino al largo colombo: se passate dal via ritirate 500 euro.
+andate sino a viale multisim: se passate da lb.Alarico ritirate 500 euro.
 
 
 
-andate in prigione direttamente e senza passare dal via.
+fate un assenza direttamente senza chieder alla mamma.
 
 
 
@@ -13,115 +13,113 @@ avete tutti i vostri stabili da riparare:pagare 60 euro per ogni casa e 250 per 
 
 
 
-fate 3 passi indietro (con tanti auguri)
+sei stato bocciato,fai 3 passi indietro (con tanti auguri).
 
 
 
-andate sino a via accademia: se passate dal via ritirate 500 euro.
+andate sino a viale dad: se passate dal via ritirate 500 euro.
 
 
 
-versate 50 euro per beneficienza.
+versate 50 euro per i controsoffitti.
 
 
 
-andate alla stazione nord:se passate dal via ritirate 500 euro.
+andate al bagno nord delle femmine:se passate dal via ritirate 500 euro(senza entrare!!)
 
 
 
-multa di 40 euro per aver guidato senza patente.
+multa di 40 euro per aver copiato al compito su Foscolo.
 
 
 
-andate fino al parco della vittoria.
+andate fino al viale dei caduti e dite una bella parola in loro onore.
 
 
 
-matrimonio in famiglia:spese impreviste 375 euro.
+stai per essere bocciato:spese impreviste 375 euro per salvare l'anno.
 
 
 
-uscite gratis di prigione, se ci siete: potete conservare questo cartoncino sino al momento di servirvene (non si sa mai!) oppure venderlo.
+scampate una assenza, se la state facendo: potete conservare questo cartoncino sino al momento di servirvene (non si sa mai!) oppure venderlo.
 
 
+la banca vi reagala 125 euro per aver subito un ritardo da parte di un prof.
 
-maturano le cedole delle vostre cartelle di rendita, ritirate 375 euro.
-
-
-
-la banca vi paga gli interessi del vostro conto corrente, ritirate 125 euro.
 
 andate avanti sino al via.
 
 
 
-avete vinto un terno al lotto: ritirate 250 euro.
+avete preso un 9 in telecomunicazioni: ritirate 250 euro e svelate il vostro segreto.
 
 
 
-dovete pagare un contributo di miglioriastradale, 100 per ogni casa, 250 euro per ogni albergo che possedete.
+dovete pagare un contributo per migliorare la scuola, 100 per ogni casa, 250 euro per ogni albergo che possedete.
 
 
 
-andate in prigione direttamente e senza passare dal via.
+fate una assenza senza chieder alla mamma.
 
 
 
-PROBABILIT‡:
+PROBABILIT√†:
 
 
 
-ritornate al vicolo corto.
-
-Ë maturata la cedola delle vostre azioni: ritirate 60 euro.
+ritornate al corridoio di destra.
 
 
-
-rimborso tassa sul reddito: ritirate 50 euro dalla banca.
+6 politico : ritirate 60 euro.
 
 
 
-avete vinto il secondo premio in un concorso di bellezza: ritirate 25 euro.
+rimborso errore per il 6 in comportamento: ritirate 50 euro dalla banca.
 
 
 
-scade il vostro premio di assicurazione: pagate 125 euro.
+avete vinto il secondo premio nelle olimpiadi di informatica: ritirate 25 euro.
 
 
 
-uscite gratis di prigione, se ci siete: potete conservare questo cartoncino sino al momento di servirvene(non si sa mai!) oppure venderlo.
+perdete il vostro badge: pagate 125 euro.
 
 
 
-avete vinto un premio di consolazione alla lotteria di Merano: ritirate 250 euro.
+scampate una assenza, se la state facendo: potete conservare questo cartoncino sino al momento di servirvene (non si sa mai!) oppure venderlo.
+
+
+
+avete vinto un premio di consolazione alle olimpiadi di matematica: ritirate 250 euro.
 
 
 
 andate fino al via.
 
-pagate una multa di 25 euro, oppure prendete un cartoncino dagli imprevisti.
+
+pagate una multa di 25 euro per aver finto una visita medica, oppure prendete un cartoncino dagli imprevisti.
 
 
 
-siete creditori verso la bancadi 500 euro, ritirateli.
+hai accumulato piu di 20 ritardi: pagate 500 alla banca
 
 
 
-avete perso una causa: pagate 250 euro.
+avete perso una causa al consiglio di classe: pagate 250 euro.
 
-andate in prigione direttamente e senza passare dal via.
-
-
-
-Ë il vostro compleanno: ogni giocatore vi regala 25 euro.
+fate una assenza senza chiedere alla mamma.
 
 
 
-avete ceduto delle azioni: ricavate 125 euro.
+√® il vostro 18esimo: ogni giocatore vi regala 25 euro e un insegna luminosa.
 
 
 
-pagate il conto del dottore: 125 euro
+avete fatto copiare al secchione: ricavate 125 euro.
+
+
+
+pagate il costo per il tampone : 125 euro
 
 vie
 LEGGENDA 
@@ -206,7 +204,7 @@ albergo=100
 625
 750
 ipoteca=70
-piazza universit‡=160
+piazza universit√†=160
 casa=100
 albergo=100
 12
@@ -356,14 +354,14 @@ albergo=200
 1700
 2000
 ipoteca=200
-societ‡ elettrica=150
+societ√† elettrica=150
 ipoteca=75
-se si possiede una sola societ‡ la rendita Ë 4 volte il numero uscito dai dadi
-se si posseggono entrambe le societ‡ la rendita Ë 10 volte il numero uscito dai dadi
-societ‡ acqua potabile=150
+se si possiede una sola societ√† la rendita √® 4 volte il numero uscito dai dadi
+se si posseggono entrambe le societ√† la rendita √® 10 volte il numero uscito dai dadi
+societ√† acqua potabile=150
 ipoteca=75
-se si possiede una sola societ‡ la rendita Ë 4 volte il numero uscito dai dadi
-se si posseggono entrambe le societ‡ la rendita Ë 10 volte il numero uscito dai dadi
+se si possiede una sola societ√† la rendita √® 4 volte il numero uscito dai dadi
+se si posseggono entrambe le societ√† la rendita √® 10 volte il numero uscito dai dadi
  
 stazione nord/sud/est/ovest=200
 se si possiede una sola stazione=25
