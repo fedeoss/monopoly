@@ -1,4 +1,4 @@
-diario di bordo
+﻿diario di bordo
 7.04.2021
 ci siamo divisi i compiti, scelto i capigruppo e fatto il diagramma di GANTT
 10.04.2021
@@ -10,3 +10,5 @@ ho scritto tutte le vie e i vari costiseguendo il mio monopoly
 ho scritto le regole del mio monopoly nella prima bozza del manuale d'uso
 21.04.2021
 ho finito il manuale d'uso confrontando le idee con coloro che devono fare il codice.
+28.04.2021
+ho sistemato gli imprevisti, le probabilità e il manuale d'uso in base al tema scelto. e concordato un giorno con Napolitano per aiutarmi a terminare il manuale d'uso.
